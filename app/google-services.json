@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969708414748",
+    "firebase_url": "https://iknowrte-bucketlist-default-rtdb.firebaseio.com",
+    "project_id": "iknowrte-bucketlist",
+    "storage_bucket": "iknowrte-bucketlist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969708414748:android:f600d3f2b3b34cbc9abcd9",
+        "android_client_info": {
+          "package_name": "com.example.myfovoriteyoutubechannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969708414748-2dafmcrhanhkr6jn231t3pe6qggnpt06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG8P8kFKMLGUBKFR843GJ0vFZSlSVx2FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969708414748-2dafmcrhanhkr6jn231t3pe6qggnpt06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
